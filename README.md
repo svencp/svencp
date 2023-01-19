@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @svencp
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...   svenponelat@hotmail.com
 
 <!---
 svencp/svencp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
