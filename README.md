@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @svencp
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...   svenponelat@hotmail.com
+- 📫 How to reach me ...   sven@noguile.xyz
 
 <!---
 svencp/svencp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
